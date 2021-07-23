@@ -1,0 +1,25 @@
+{
+  "name": "Employee-Tracker",
+  "version": "1.0.0",
+  "description": "this load information from each department and relation with all employees",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartaya1/Employee-Tracker.git"
+  },
+  "author": "Luis Cartaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cartaya1/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/cartaya1/Employee-Tracker#readme",
+  "dependencies": {
+    "console-table-printer": "^1.6.3",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
