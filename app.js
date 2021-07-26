@@ -10,8 +10,8 @@ let employees;
 var connection = mysql2.createConnection({
     host: "localhost",
   
-    // Your port; if not 3306
-    port: 3306,
+    // Your port; if not 3001
+    port: 3001,
   
     // Your username
     user: "root",
@@ -21,7 +21,7 @@ var connection = mysql2.createConnection({
     database: "employees_db"
   });
 
-  figlet('FSC Employee Tracker', (err, result) => {
+  figlet('Employee Tracker', (err, result) => {
     console.log(err || result);
   });
 
@@ -57,7 +57,7 @@ var connection = mysql2.createConnection({
           deleteSomething();
         }
         else if (answer.choices === "EXIT") {
-          figlet('Thanks for using FSC Employee Tracker', (err, result) => {
+          figlet('Thanks for using Employee Tracker', (err, result) => {
             console.log(err || result);
           });
         
