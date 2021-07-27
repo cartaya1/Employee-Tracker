@@ -38,7 +38,7 @@ Quiero poder ver y administrar los departamentos, roles y empleados de mi empres
 Para que pueda organizar y planificar mi negocio.
 ```
 
-# Demo : 
+# Demo 
 
 ![Demo](./images/Employee-Tracker.gif)
 
@@ -66,7 +66,7 @@ Para que pueda organizar y planificar mi negocio.
   * **role_id** - INT to hold reference to role employee has
   * **manager_id** - INT to hold reference to another employee that manager of the current employee. This field may be null if the employee has no manager
 
-# Technology :
+# Technology
 **1. [MySQL2](https://www.npmjs.com/package/mysql2) NPM package** : 
 * MySQL is an open-source relational database management system.
 * A relational database organizes data into one or more data tables in which data types may be related to each other; these relations help structure the data.
@@ -101,7 +101,7 @@ Para que pueda organizar y planificar mi negocio.
 
 * Used this NPM package to add some visual flare to the main logo. 
 
-# Usage :
+# Usage
 * Clone this repository to use this application on local machine.
 
 * To install necessary dependencies, run the following command :
@@ -117,7 +117,7 @@ node server.js
 ```
 * After running above command, user is presented with series of options to manage employee databse.
 
-# Features :
+# Features
 1. MySql npm package is used to connect to database and perform queries.
 
 2. Inquirer npm package is used to interact with the user via the command-line.
