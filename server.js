@@ -418,17 +418,16 @@ async function mainPrompt() {
 
 
 function init() {
-
 	//logo
 	console.log(
 		logo({
-			name: 'Employee Management System',
+			name: 'Employee Tracker',
 			font: 'Standard',
 			lineChars: 10,
 			padding: 3,
 			margin: 4,
 			borderColor: 'bold-white',
-			logoColor: 'bold-cyan',
+			logoColor: 'bold-magenta',
 		})
 		.emptyLine()
 		.render()
