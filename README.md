@@ -17,14 +17,14 @@ Los desarrolladores a menudo tienen la tarea de crear interfaces que faciliten a
 
 # Table of Contents
 
-* [Demo](#Demo)
-* [Technology](#Technology)
-* [Usage](#Usage)
+* [Demo](#demo)
+* [Technology](#technology)
+* [Usage](#usage)
 * [Features](#features)
-* [License](#License)
-* [Contribution](#Contribution)
-* [Questions](#Questions)
-* [GitHub](#GitHub)
+* [License](#license)
+* [Contribution](#contribution)
+* [Questions](#questions)
+* [GitHub](#github)
 
 # User Story : 
 
