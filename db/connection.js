@@ -10,7 +10,7 @@ const connection = mysql.createConnection({
     //username
     user : 'root',
 
-    //password
+    //password very important remembered
     password : 'rootroot',
 
     // database name to connect with

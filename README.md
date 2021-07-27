@@ -13,15 +13,18 @@ Los desarrolladores a menudo tienen la tarea de crear interfaces que faciliten a
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems.
 
+Los desarrolladores a menudo tienen la tarea de crear interfaces que faciliten a los no desarrolladores ver e interactuar con la información almacenada en las bases de datos. A menudo, estas interfaces se conocen como **S**istemas de **G**estión de **C**ontenido.
+
 # Table of Contents
 
-* [Demo](#demo)
-* [Technology](#technology)
-* [Usage](#usage)
+* [Demo](#Demo)
+* [Technology](#Technology)
+* [Usage](#Usage)
 * [Features](#features)
-* [License](#license)
-* [Contribution](#contribution)
-* [Questions](#questions)
+* [License](#License)
+* [Contribution](#Contribution)
+* [Questions](#Questions)
+* [GitHub](#GitHub)
 
 # User Story : 
 
@@ -29,11 +32,15 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
+
+Como propietario de un negocio
+Quiero poder ver y administrar los departamentos, roles y empleados de mi empresa.
+Para que pueda organizar y planificar mi negocio.
 ```
 
 # Demo : 
 
-![Demo](./images/Employee-Management-System.gif)
+![Demo](./images/Employee-Tracker.gif)
 
 # Database Schema : 
 
