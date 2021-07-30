@@ -333,7 +333,7 @@ function init() {
 	//logo
 	console.log(
 		logo({
-			name: 'Content Management Systems',
+			name: 'Employee Management Systems',
 			font: 'Standard',
 			lineChars: 10,
 			padding: 3,
